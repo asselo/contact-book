@@ -1,0 +1,4 @@
+Hello, my name is Assel.
+This is a sample file for tokenization.
+Python is fun...
+Let's see how it works.
